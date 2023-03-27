@@ -1,4 +1,5 @@
 # Hulu-Clone 
+![Hulu](https://user-images.githubusercontent.com/29306300/hulu.png)
 
 
 # Getting Started with Create React App
